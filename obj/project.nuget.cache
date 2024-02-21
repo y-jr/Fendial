@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "oTclDweUBRKv549UzUL34wurYK3nW32bJQNX+q/eACmRCxP0RRFaxcF7QGyDaQer7bCJoEMLroY4SzahbOYgDg==",
+  "dgSpecHash": "SRPmcpGrQSutNzLPpAsXccIaEkaGkAM80kjcZmKFBZodGOJWGcyxKzYfeHDlpG+A1gKqeZsGOBLTQFH3Shshnw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Documents\\Documentos\\Pessoal\\Trabalhos\\Fenda\\2023-2024\\TLP\\12ª\\II Trimestre\\Prática\\fendiel\\fendiel\\fendiel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.dotnet.watcher.tools\\2.0.2\\microsoft.dotnet.watcher.tools.2.0.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app\\2.0.7\\microsoft.netcore.app.2.0.7.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.7\\microsoft.netcore.dotnetapphost.2.0.7.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.7\\microsoft.netcore.dotnethostpolicy.2.0.7.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.7\\microsoft.netcore.dotnethostresolver.2.0.7.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.2\\microsoft.netcore.platforms.2.0.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.1\\netstandard.library.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

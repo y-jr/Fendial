@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fendiel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7452ad20019959718d80f1d7978a20e9c7ad5f2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("fendiel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fendiel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -28,3 +28,9 @@ C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II T
 C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\obj\Debug\net8.0\fendiel.pdb
 C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\obj\Debug\net8.0\fendiel.genruntimeconfig.cache
 C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\obj\Debug\net8.0\ref\fendiel.dll
+C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\obj\Debug\net8.0\fendiel.sourcelink.json
+C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\bin\Debug\net8.0\package-lock.json
+C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\bin\Debug\net8.0\package.json
+C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\bin\Debug\net8.0\dotnet-watch.dll
+C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\obj\Debug\net8.0\fendiel.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Documentos\Pessoal\Trabalhos\Fenda\2023-2024\TLP\12ª\II Trimestre\Prática\fendiel\fendiel\obj\Debug\net8.0\fendiel.csproj.CopyComplete
